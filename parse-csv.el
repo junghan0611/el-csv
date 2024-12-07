@@ -7,7 +7,7 @@
 ;;         Matt Curtis <matt.r.curtis@gmail.com> (Emacs Lisp)
 ;; Maintainer: Matt Curtis <matt.r.curtis@gmail.com>
 ;; Version: 0.3
-;; Package-Requires ((emacs "24.3"))
+;; Package-Requires: ((emacs "24.3"))
 ;; Keywords: csv
 ;; URL: https://github.com/mrc/el-csv
 
